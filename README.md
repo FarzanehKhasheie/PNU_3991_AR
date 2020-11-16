@@ -67,7 +67,7 @@
   </tr>
    <tr>
     <th ></th>
-    <th > <a href="">مدیریت پروژه‌های نرم افزاری</a></th>
+    <th > <a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement#TOC">مدیریت پروژه‌های نرم افزاری</a></th>
     <th></th>
     <th></th>
      <th ></th>
