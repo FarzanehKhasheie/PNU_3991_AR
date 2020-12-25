@@ -14,7 +14,14 @@
 - [SOP](https://farzanehkhasheie.github.io/SOP/)
 - [JavaScript certificate](https://www.sololearn.com/Certificate/1024-20271825/pdf/)
 - [patchwork](https://github.com/FarzanehKhasheie/PNU_3991_AR/blob/main/Capture1.jpg)
+- [WriteInLatex](https://github.com/FarzanehKhasheie/PNU_3991_AR/blob/main/untitled-1.tex)
 - [presentation](https://github.com/FarzanehKhasheie/PNU_3991_AR/blob/main/Chapter_24.pptx)
+- [1.jpg](https://github.com/FarzanehKhasheie/PNU_3991_AR/blob/main/1.jpg)
+- [2.jpg](https://github.com/FarzanehKhasheie/PNU_3991_AR/blob/main/2.jpg)
+- [3.jpg](https://github.com/FarzanehKhasheie/PNU_3991_AR/blob/main/3.jpg)
+- [4.jpg](https://github.com/FarzanehKhasheie/PNU_3991_AR/blob/main/4.jpg)
+
+
 ------------------
 ## Winter Semester Courses 1399/2020
 
