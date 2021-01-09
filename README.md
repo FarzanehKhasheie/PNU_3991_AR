@@ -17,6 +17,7 @@
 - [WriteInLatex](https://github.com/FarzanehKhasheie/PNU_3991_AR/blob/main/untitled-1.tex)
 - [presentation](https://github.com/FarzanehKhasheie/PNU_3991_AR/blob/main/Chapter_24.pptx)
 - ["ارزیابی عمومی"رزومه و انگیزه نامه](https://github.com/FarzanehKhasheie/PNU_3991_AR/blob/main/fkh_CV_CheckList_AR_3991%20(1).pdf)
+- ["ارزیابی عمومی"فعالیت های مشترک](https://github.com/FarzanehKhasheie/PNU_3991_AR/blob/main/fkh_GeneralSection_CheckList_AR_3991.pdf)
 - [1.jpg](https://github.com/FarzanehKhasheie/PNU_3991_AR/blob/main/1.JPG)
 - [2.jpg](https://github.com/FarzanehKhasheie/PNU_3991_AR/blob/main/2.JPG)
 - [3.jpg](https://github.com/FarzanehKhasheie/PNU_3991_AR/blob/main/3.JPG)
